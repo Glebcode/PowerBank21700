@@ -4,9 +4,13 @@
 **1.** Printed parts:
  
 *-  bottomPartPowerBank21700.*
+
 *-  topLidPartPowerBank21700.*
+
 *-  bracketInsidePartPowerBank21700.*
+
 *-  buttonPowerBank21700.*
+
 
 **2.** 21700 batteries 6 pcs.
 
