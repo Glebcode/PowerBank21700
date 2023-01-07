@@ -26,3 +26,4 @@
 
 
 *More details and information you can find in Explanation folder in english, hebrew and ukrainian. Hope you will enjoy it !*
+https://youtu.be/oLE26JI4mzE - short review video.
