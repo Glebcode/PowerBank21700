@@ -25,5 +25,6 @@
 **7.** Electrical isolation tape.
 
 
-*More details, links and information you can find in **word files** in english, hebrew and ukrainian. Hope you will enjoy it !*
+*More details, links and information you can find in **word files** in english, hebrew and ukrainian.<br> 
+Hope you will enjoy it !*<br>
 https://youtu.be/oLE26JI4mzE - short review video.
